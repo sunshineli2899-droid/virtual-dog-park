@@ -115,7 +115,7 @@ function nextDay() {
   virtualDog.happiness = Math.max(0, virtualDog.happiness - 5);
   renderDog();
   saveDog();
-  dogStatus.textContent = "Day " + virtualDog.day + ": " + virtualDog.name + " is a " + getGrowthStage(virtualDog.day) + ". Happiness: " + virtualDog.happiness + " out of 100.";
+  dogStatus.textContent = "Day " + virtualDog.day + ": " + virtualDog.name + ". Growth stage: " + getGrowthStage(virtualDog.day) + ". Happiness: " + virtualDog.happiness + " out of 100.";
 }
 
 // JSON turns the object into text that localStorage can keep between visits.

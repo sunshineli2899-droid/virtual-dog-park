@@ -118,7 +118,8 @@
           </dl>
           <label class="growth-label" for="dog-growth">Growth toward adulthood</label>
           <progress id="dog-growth" value="1" max="4" aria-describedby="growth-guide"></progress>
-          <p id="growth-guide" class="name-help">Puppy → Young Dog → Adult Dog</p>
+          <p id="growth-guide" class="name-help">Day 1: Puppy. Days 2–3: Young Dog. Day 4 onward: Adult Dog.</p>
+          <p class="name-help">Feed and Play each add 10 happiness (maximum 100). Next Day advances one day and subtracts 5 happiness (minimum 0).</p>
           <div class="dog-actions">
             <button id="feed-button" class="dog-action" type="button" disabled>Feed</button>
             <button id="play-button" class="dog-action" type="button" disabled>Play</button>
@@ -128,7 +129,7 @@
         </div>
       </div>
       <p id="dog-status" class="dog-status" role="status"></p>
-      <p class="name-help">This browser remembers one dog on this device. Start Over clears that saved dog.</p>
+      <p class="name-help">This browser remembers one dog on this device. Start Over asks for confirmation before deleting that saved dog.</p>
       <p id="storage-message" class="name-error" role="status"></p>
       <noscript><p>Please enable JavaScript to adopt and care for a virtual dog.</p></noscript>
     </section>
