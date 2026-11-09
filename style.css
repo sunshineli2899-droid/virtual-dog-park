@@ -107,7 +107,7 @@ footer a { white-space: nowrap; text-decoration: none; }
 /* Adoption styles are separate from the encyclopedia styles. */
 .virtual-dog { margin-top: 45px; }
 .virtual-dog > p { color: var(--muted); }
-.virtual-dog-layout { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start; }
+.virtual-dog-layout { display: grid; grid-template-columns: 1fr; gap: 24px; align-items: start; max-width: 640px; }
 .adoption-form, .virtual-dog-card { min-width: 0; padding: 25px; border: 1px solid var(--line); border-radius: 12px; background: #fffdf7; }
 .adoption-form label { display: block; margin-bottom: 7px; font-weight: 650; }
 .adoption-form input, .adoption-form select { width: 100%; min-height: 46px; padding: 10px 12px; border: 1px solid #8a9484; border-radius: 6px; background: white; color: var(--ink); font: inherit; }
@@ -124,6 +124,11 @@ footer a { white-space: nowrap; text-decoration: none; }
 .dog-action:hover { background: #3d5945; }
 .dog-action:disabled { opacity: .5; cursor: default; }
 .dog-status { min-height: 26px; }
+.growth-label { display: block; margin-bottom: 8px; font-size: 14px; font-weight: 650; }
+#dog-growth { display: block; width: 100%; height: 20px; accent-color: #697e41; }
+.virtual-dog-card .dog-actions { margin-top: 24px; }
+.dog-action-secondary { background: transparent; color: var(--ink); }
+.dog-action-secondary:hover { background: #edf0df; }
 @media (max-width: 650px) {
   .virtual-dog-layout { grid-template-columns: 1fr; }
 }
