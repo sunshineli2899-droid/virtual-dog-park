@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <!-- Original illustration: a curly Poodle with a proud, lifted paw. -->
+  <g stroke="#574b50" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="181" cy="219" rx="106" ry="8" fill="#c6bccc" stroke="none"/>
+    <path d="M229 146 Q262 125 254 102" fill="none" stroke-width="9"/>
+    <path d="M246 104 Q235 99 241 88 Q239 77 251 76 Q262 71 268 82 Q281 88 271 101 Q265 111 254 105 Z" fill="#9d8b8b"/>
+    <path d="M142 143 L139 199 L155 199 L164 162 L213 164 L218 201 L234 201 L234 143 Z" fill="#b5a3a0"/>
+    <path d="M143 153 L126 172 L110 162 L102 174 L128 190 L152 174" fill="#b5a3a0"/>
+    <path d="M150 126 Q148 111 164 114 Q174 104 185 115 Q202 109 210 121 Q228 117 232 132 Q248 138 238 153 Q243 168 227 172 Q218 182 205 172 Q191 181 179 169 Q160 175 153 161 Q137 156 145 143 Q134 133 150 126 Z" fill="#a89595"/>
+    <path d="M142 197 Q130 192 126 203 Q120 215 134 218 L157 218 Q171 212 160 201 Q155 193 142 197 Z M218 197 Q205 193 203 205 Q198 218 213 219 L236 218 Q247 211 238 202 Q231 193 218 197 Z" fill="#a89595"/>
+    <path d="M108 156 Q97 150 92 161 Q81 169 93 180 Q106 190 116 178 Q126 167 115 162 Z" fill="#a89595"/>
+    <path d="M150 79 Q128 82 130 101 Q127 114 147 115 L174 112 Q194 100 184 82 Z" fill="#c3b3ae"/>
+    <path d="M132 97 Q117 94 120 104 Q124 113 135 106" fill="#443d42"/>
+    <path d="M151 108 Q157 112 164 106" fill="none"/>
+    <circle cx="151" cy="90" r="3.5" fill="#443d42" stroke="none"/>
+    <path d="M142 75 Q130 66 139 56 Q138 43 152 43 Q157 30 170 37 Q183 27 193 40 Q208 38 209 52 Q220 61 209 74 Q207 87 192 83 L161 82 Q148 86 142 75 Z" fill="#a89595"/>
+    <path d="M185 76 Q199 68 207 80 Q220 90 210 101 Q218 115 205 122 Q190 134 180 122 Q168 119 174 106 Q164 96 176 87 Q175 79 185 76 Z" fill="#948183"/>
+    <path d="M157 124 L169 128 L171 141 L155 136 Z M173 128 L188 122 L190 138 L173 141 Z" fill="#7e9276"/>
+    <circle cx="172" cy="133" r="5" fill="#576f53" stroke="none"/>
+    <path d="M284 157 v12 M278 163 h12" fill="none" stroke="#94819d" stroke-width="2"/>
+  </g>
+</svg>

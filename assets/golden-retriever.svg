@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <!-- Original illustration: a seated Golden Retriever with a ball. -->
+  <g stroke="#76532e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="182" cy="219" rx="106" ry="8" fill="#c5c8a1" stroke="none"/>
+    <path d="M213 185 Q262 191 265 157 Q287 185 250 205 L213 207" fill="#d6a353"/>
+    <path d="M151 111 Q127 137 126 186 Q120 209 146 213 L219 213 Q240 209 225 182 L214 128 Z" fill="#d9a751"/>
+    <path d="M163 132 L150 158 L160 155 L153 174 L164 170 L160 198 L203 198 L202 171 L212 175 L204 153 L213 158 L201 131" fill="#f5d491" stroke="none"/>
+    <path d="M157 159 L153 211 Q167 220 180 211 L178 166 M198 162 L200 211 Q212 219 223 211 L217 160" fill="#edc376"/>
+    <path d="M145 69 Q127 61 121 83 L123 123 Q130 144 145 125 L157 87 M209 68 Q231 61 238 85 L236 122 Q230 143 216 126 L204 85" fill="#b9853e"/>
+    <path d="M148 65 Q178 47 208 65 Q225 80 216 109 Q210 137 180 141 Q150 137 142 110 Q132 83 148 65 Z" fill="#edc376"/>
+    <path d="M161 62 l12 -9 l2 8 l13 -7 l-1 8" fill="#edc376"/>
+    <ellipse cx="180" cy="113" rx="25" ry="19" fill="#f8dba1" stroke="none"/>
+    <path d="M170 104 Q180 100 190 104 Q189 113 180 116 Q171 112 170 104 Z" fill="#3d4031"/>
+    <path d="M180 116 L180 123 M165 120 Q180 134 195 120" fill="none"/>
+    <path d="M175 128 L175 136 Q181 147 187 136 L187 128" fill="#ce8372"/>
+    <circle cx="158" cy="93" r="4" fill="#3d4031" stroke="none"/>
+    <circle cx="201" cy="93" r="4" fill="#3d4031" stroke="none"/>
+    <path d="M149 141 Q178 153 209 140" fill="none" stroke="#74865d" stroke-width="7"/>
+    <circle cx="180" cy="150" r="6" fill="#e9d69c" stroke-width="2"/>
+    <circle cx="98" cy="204" r="14" fill="#88966a" stroke="none"/>
+    <path d="M91 193 Q103 204 91 215" fill="none" stroke="#e5e9c8" stroke-width="2"/>
+  </g>
+</svg>

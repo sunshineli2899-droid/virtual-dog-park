@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 240">
+  <!-- Original illustration: a tricolor Beagle following a scent. -->
+  <g stroke="#493b2c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="181" cy="218" rx="112" ry="8" fill="#c5ad8e" stroke="none"/>
+    <path d="M247 141 Q290 105 279 74 Q302 107 269 161" fill="#fff9e9"/>
+    <path d="M130 126 Q171 99 229 122 Q263 132 261 174 L253 210 L231 210 L231 177 L163 179 L156 211 L135 211 L139 167" fill="#fff9e9"/>
+    <path d="M161 120 Q199 107 230 123 L233 159 Q211 179 176 166 Z" fill="#394139" stroke="none"/>
+    <path d="M224 172 L220 209 L200 209 L202 177" fill="#c18145"/>
+    <path d="M148 174 L138 209 L119 209 L126 163" fill="#c18145"/>
+    <path d="M127 112 Q97 109 87 139 Q72 147 68 160 Q65 178 87 183 L124 179 Q150 167 151 142 Z" fill="#b97b43"/>
+    <path d="M105 131 Q102 159 79 162 L69 159 Q59 177 84 184 L109 179 L119 150 Z" fill="#fff9e9" stroke="none"/>
+    <path d="M130 116 Q157 114 155 140 L144 170 Q134 185 123 171 Q114 153 122 132 Z" fill="#80512e"/>
+    <ellipse cx="71" cy="161" rx="8" ry="6" fill="#30392e"/>
+    <circle cx="103" cy="144" r="3.5" fill="#30392e" stroke="none"/>
+    <path d="M80 175 Q89 178 95 173" fill="none"/>
+    <path d="M109 183 L124 186 L132 177" fill="none" stroke="#65764c" stroke-width="7"/>
+    <path d="M62 202 l-5 -6 M71 207 l-3 -7 M48 210 l-6 -2" fill="none" stroke="#8b9b66" stroke-width="2"/>
+    <path d="M289 212 l4 -10 M296 214 l7 -5" fill="none" stroke="#8b9b66" stroke-width="2"/>
+  </g>
+</svg>
