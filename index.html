@@ -86,6 +86,46 @@
       </div>
     </section>
 
+    <section id="my-virtual-dog" class="virtual-dog" aria-labelledby="virtual-dog-title">
+      <div class="section-heading">
+        <div><p class="eyebrow">A friend of your own</p><h2 id="virtual-dog-title">My Virtual Dog</h2></div>
+      </div>
+      <p>Choose a breed, give your pup a name, and make their day.</p>
+
+      <div class="virtual-dog-layout">
+        <form id="adoption-form" class="adoption-form" novalidate>
+          <label for="dog-breed">Dog breed</label>
+          <select id="dog-breed" name="breed">
+            <option value="Beagle">Beagle</option>
+            <option value="Golden Retriever">Golden Retriever</option>
+            <option value="Poodle">Poodle</option>
+          </select>
+
+          <label for="dog-name">Dog name</label>
+          <input id="dog-name" name="dog-name" type="text" maxlength="20" required aria-describedby="name-help name-error">
+          <p id="name-help" class="name-help">Use 1–20 characters. Spaces inside the name are welcome.</p>
+          <p id="name-error" class="name-error" role="alert"></p>
+          <button class="dog-action" type="submit">Adopt</button>
+        </form>
+
+        <div id="virtual-dog-card" class="virtual-dog-card" aria-labelledby="adopted-dog-name" hidden>
+          <h3 id="adopted-dog-name"></h3>
+          <dl class="dog-stats">
+            <div><dt>Breed</dt><dd id="adopted-dog-breed"></dd></div>
+            <div><dt>Day number</dt><dd id="dog-day"></dd></div>
+            <div><dt>Growth stage</dt><dd id="dog-stage"></dd></div>
+            <div><dt>Happiness</dt><dd><span id="dog-happiness"></span> / 100</dd></div>
+          </dl>
+          <div class="dog-actions">
+            <button id="feed-button" class="dog-action" type="button" disabled>Feed</button>
+            <button id="play-button" class="dog-action" type="button" disabled>Play</button>
+          </div>
+        </div>
+      </div>
+      <p id="dog-status" class="dog-status" role="status"></p>
+      <noscript><p>Please enable JavaScript to adopt and care for a virtual dog.</p></noscript>
+    </section>
+
     <div class="care-note"><span aria-hidden="true">♡</span><p><strong>A little love goes a long way.</strong> Every dog needs fresh water, good food, gentle training, and regular vet visits.</p></div>
   </main>
 
